@@ -14,3 +14,6 @@ This is an example for different parts of git repository and various commands to
 Sample website with plenty of files for demos
 
 ## How to Contribute
+
+We will be explaining the other components of git.
+how to use diff tool here to check the difference.
